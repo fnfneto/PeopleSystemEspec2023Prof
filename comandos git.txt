@@ -1,0 +1,9 @@
+git config --global user.name "Francisco"
+git config --global user.email fnfneto@gmail.com
+
+
+git clone <link>
+
+git status
+git add .
+git push
